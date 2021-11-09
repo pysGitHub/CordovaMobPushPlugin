@@ -1,0 +1,29 @@
+{
+  "name": "cordovamobpushplugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "cordova": {
+    "id": "cordova-plugin-mobpush",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "MobPush",
+    "cordova-plugin-mobpush",
+    "cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pysGitHub/CordovaMobPushPlugin.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
